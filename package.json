@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "build": "webpack"
+  },
+  "dependencies": {
+    "gotrue-js": "^0.9.24"
+  },
+  "devDependencies": {
+    "webpack": "^4.29.4",
+    "webpack-cli": "^3.2.3"
+  }
+}
